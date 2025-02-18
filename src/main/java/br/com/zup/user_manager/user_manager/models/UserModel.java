@@ -1,4 +1,4 @@
-package br.com.zup.user_manager.user_manager.mpdels;
+package br.com.zup.user_manager.user_manager.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
